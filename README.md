@@ -1,4 +1,4 @@
-# EfCoreInAction
+# [EfCoreInAction](https://www.simple-talk.com/dotnet/net-development/building-better-entity-framework-applications/)
 
 Welcome to the Git repo that is associated with the book 
 **[Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action?a_aid=su4utaraxuTre8tuthup&a_bid=4cef27ce)**
